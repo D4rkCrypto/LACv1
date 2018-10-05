@@ -1,2 +1,0 @@
-# LAC
-LAC implementation
